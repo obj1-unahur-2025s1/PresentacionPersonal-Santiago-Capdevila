@@ -12,7 +12,7 @@ realizar y poder compartirlas.
 - IDE: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📌 Proyectos destacados
-🎡 **Ruleta** – Un programa en Python para elegir algo aleatoreamente.  
+🎡 ![**Ruleta**](https://github.com/santiowll/random-element) – Un programa en Python para elegir algo aleatoreamente.  
 
 ## 📫 Redes
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-capdevila-74529b139/)
