@@ -11,7 +11,7 @@ realizar y poder compartirlas.
 - Lenguajes: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - IDE: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📌 Proyectos destacados
+## 📌 Mis Proyectos
 🎡 ![**Ruleta**](https://github.com/santiowll/random-element) – Un programa en Python para elegir algo aleatoreamente.  
 
 ## 📫 Redes
